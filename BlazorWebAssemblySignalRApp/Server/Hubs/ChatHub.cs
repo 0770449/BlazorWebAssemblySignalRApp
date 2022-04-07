@@ -5,9 +5,18 @@ namespace BlazorWebAssemblySignalRApp.Server.Hubs
 {
     public class ChatHub : Hub
     {
-        public async Task SendMessage(string user, string message)
+        public Task SendMessage(string user, string message)
         {
-            await Clients.All.SendAsync("ReceiveMessage", user, message);
+
+            return Clients.All.SendAsync("ReceivingMessageFromAUser", user, message);
+        }
+        public Task SendMessageToCaller(string user, string message)
+        {
+            return Clients.Caller.SendAsync("ReceivingMessageFromAUser", user + " something special", message);
+        }
+        public Task SendMessageToGroup(string user, string message)
+        {
+            return Clients.Group("SignalR Users").SendAsync("ReceivingMessageFromAUser", user, message);
         }
     }
 }

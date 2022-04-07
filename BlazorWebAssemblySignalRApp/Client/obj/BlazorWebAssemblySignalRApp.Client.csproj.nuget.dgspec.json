@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\Client\\BlazorWebAssemblySignalRApp.Client.csproj": {}
+    "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\client\\BlazorWebAssemblySignalRApp.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\Client\\BlazorWebAssemblySignalRApp.Client.csproj": {
+    "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\client\\BlazorWebAssemblySignalRApp.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\Client\\BlazorWebAssemblySignalRApp.Client.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\client\\BlazorWebAssemblySignalRApp.Client.csproj",
         "projectName": "BlazorWebAssemblySignalRApp.Client",
-        "projectPath": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\Client\\BlazorWebAssemblySignalRApp.Client.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\client\\BlazorWebAssemblySignalRApp.Client.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\Client\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
             },
             "Microsoft.AspNetCore.SignalR.Client": {
               "target": "Package",
-              "version": "[6.0.3, )"
+              "version": "[5.0.15, )"
             },
             "System.Net.Http.Json": {
               "target": "Package",

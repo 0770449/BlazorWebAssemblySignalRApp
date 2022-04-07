@@ -8,39 +8,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 884587794,
-        "Kind": "Components.Component",
-        "Name": "BlazorWebAssemblySignalRApp.Client.App",
-        "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.App"
-        }
-      },
-      {
-        "HashCode": -532505133,
-        "Kind": "Components.Component",
-        "Name": "BlazorWebAssemblySignalRApp.Client.App",
-        "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWebAssemblySignalRApp.Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 141071105,
         "Kind": "Components.Component",
         "Name": "BlazorWebAssemblySignalRApp.Client.Pages.Counter",
@@ -193,6 +160,39 @@
         }
       },
       {
+        "HashCode": -1248145458,
+        "Kind": "Components.Component",
+        "Name": "BlazorWebAssemblySignalRApp.Client.Shared.NavMenu",
+        "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -242824246,
+        "Kind": "Components.Component",
+        "Name": "BlazorWebAssemblySignalRApp.Client.Shared.NavMenu",
+        "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWebAssemblySignalRApp.Client.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 714000718,
         "Kind": "Components.Component",
         "Name": "BlazorWebAssemblySignalRApp.Client.Shared.MainLayout",
@@ -289,35 +289,35 @@
         }
       },
       {
-        "HashCode": -1248145458,
+        "HashCode": 884587794,
         "Kind": "Components.Component",
-        "Name": "BlazorWebAssemblySignalRApp.Client.Shared.NavMenu",
+        "Name": "BlazorWebAssemblySignalRApp.Client.App",
         "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Shared.NavMenu"
+          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.App"
         }
       },
       {
-        "HashCode": -242824246,
+        "HashCode": -532505133,
         "Kind": "Components.Component",
-        "Name": "BlazorWebAssemblySignalRApp.Client.Shared.NavMenu",
+        "Name": "BlazorWebAssemblySignalRApp.Client.App",
         "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorWebAssemblySignalRApp.Client.Shared.NavMenu"
+            "TagName": "BlazorWebAssemblySignalRApp.Client.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Shared.NavMenu",
+          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cqEQo42/EKnxZaG3nz/nhAYRYEQhgerRXhXBfGSpBtHOKpdYu8rxi/P3qIAJBI1ZAxVe9fF994F1+6m9ws3wfg==",
+  "dgSpecHash": "xbD+3wnuqeBu16Ws8Oav6+bVV6bshA2AWTl3uZHaVzCYrLCpfW3LnoRiTwFkZ0II+QWRhQPsiBPxd8mx9/qWSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\Server\\BlazorWebAssemblySignalRApp.Server.csproj",
+  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\BlazorWebAssemblySignalRApp\\server\\BlazorWebAssemblySignalRApp.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.14\\microsoft.aspnetcore.authorization.5.0.14.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.14\\microsoft.aspnetcore.components.5.0.14.nupkg.sha512",
@@ -11,7 +11,15 @@
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.components.web\\5.0.14\\microsoft.aspnetcore.components.web.5.0.14.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\5.0.14\\microsoft.aspnetcore.components.webassembly.5.0.14.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\5.0.14\\microsoft.aspnetcore.components.webassembly.server.5.0.14.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\5.0.15\\microsoft.aspnetcore.connections.abstractions.5.0.15.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\5.0.15\\microsoft.aspnetcore.http.connections.client.5.0.15.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\5.0.15\\microsoft.aspnetcore.http.connections.common.5.0.15.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.15\\microsoft.aspnetcore.http.features.5.0.15.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.14\\microsoft.aspnetcore.metadata.5.0.14.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\5.0.15\\microsoft.aspnetcore.signalr.client.5.0.15.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\5.0.15\\microsoft.aspnetcore.signalr.client.core.5.0.15.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\5.0.15\\microsoft.aspnetcore.signalr.common.5.0.15.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\5.0.15\\microsoft.aspnetcore.signalr.protocols.json.5.0.15.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
@@ -25,11 +33,12 @@
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.jsinterop\\5.0.14\\microsoft.jsinterop.5.0.14.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.14\\microsoft.jsinterop.webassembly.5.0.14.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+    "C:\\Users\\hp\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

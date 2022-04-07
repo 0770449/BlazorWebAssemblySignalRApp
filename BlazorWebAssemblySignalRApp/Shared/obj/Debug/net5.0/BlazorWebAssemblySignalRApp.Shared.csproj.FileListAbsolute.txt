@@ -1,0 +1,12 @@
+C:\Users\hp\OneDrive\Documents\GitHub\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.deps.json
+C:\Users\hp\OneDrive\Documents\GitHub\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\hp\OneDrive\Documents\GitHub\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\hp\OneDrive\Documents\GitHub\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
+C:\Users\hp\OneDrive\Documents\GitHub\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\GitHub\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\GitHub\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\GitHub\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\GitHub\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\GitHub\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\hp\OneDrive\Documents\GitHub\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\hp\OneDrive\Documents\GitHub\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
